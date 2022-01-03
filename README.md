@@ -36,6 +36,12 @@ Known  Issues and Challenges:
 
 
 
+![Screenshot 2022-01-03 145445](https://user-images.githubusercontent.com/90284853/147979471-fbf92179-3e9b-427c-b9bb-908c4bb757a2.png)
+
+
+![Screenshot 2022-01-03 145503](https://user-images.githubusercontent.com/90284853/147979521-6750faf2-4786-4adc-a1b9-4a570506bb80.png)
+
+
 ## TOOLS USED
 
 •	Excel – Data downloaded was in separate workbooks, which were cleaned and merged in Python.
