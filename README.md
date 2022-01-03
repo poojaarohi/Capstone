@@ -18,7 +18,7 @@ To answer these questions, I used Census.gov data provided by the Small Area Hea
 
 ## ANALYTICAL APPROACH
 
-Known  Issues and Challenges:
+<b>Known  Issues and Challenges:</b>
 
 •	Downloading Data thru API: Access to the data was only thru API with multi-layer variables. And some of the variables were not available in consistently within the data sets.I have written a code using loop function in python to download data for each year and then combined it together to form a data frame from year 2010-2019. I encountered Multiple time outs when the search criteria was retrieving too much data. Hence analysis was required to limit the search criteria
 
@@ -32,13 +32,33 @@ Known  Issues and Challenges:
 
 ![Screenshot 2022-01-03 145108](https://user-images.githubusercontent.com/90284853/147979084-a415da00-1a13-40d9-81ce-1f08286ad837.png)
 
+Most insured counties are clubbed around Middle Tennessee whereas most uninsured counties stretch toward east TN. 
+	One of the factors that can explain this is the difference in the type of couties i.e. Rural/Self Employed v/s corporates (which provide insurance to employees)
+  the top 5 insured counties were 
+
+- Williamson (6.28)
+-Montgomery (9.34)
+-Wilson (9.50)
+-Moore (10.20)
+-Sumner (10.35)
+
+
 ![Screenshot 2022-01-03 144943](https://user-images.githubusercontent.com/90284853/147979044-4ff2d578-482a-4666-b167-0f0b6e8c0754.png)
 
-
+In an effort to analyze the vast difference of uninsured counties, I analyzed at a higher level i.e. Median Household income and Unisured population 	for TN.
+ Median Household income has grown steadily by 30% between 2013 and 2017, during the same time uninsured population has dropped by 6%. 
+	Affordable care act played the major role in this decline.
+	Income was not the factor for people shying away from insurance as the income is still on an upward trajectory as well as uninsured population. 
+	One explanation of this is the repealing of the individual mandate in 2017.The Affordable Care Act’s individual mandate requires most Americans to enroll in health insurance. In 2017, Congress eliminated financial penalties associated with failing to comply with the mandate.
 
 ![Screenshot 2022-01-03 145445](https://user-images.githubusercontent.com/90284853/147979471-fbf92179-3e9b-427c-b9bb-908c4bb757a2.png)
 
-
+Further I have analyzed the uninsured population by demographics to find any consistency or trend. 
+	Over the years, African-Americans and Hispanic uninsured population has not changed significantly. 
+	We see the a huge dip in White uninsured population between 2013 to 2016, 
+		if we take this data point to age based analysis we can see 19-39 year population has seen the most movement. 
+	Gender based categorization tells us the male population is leading this statistics. Also i was surprised to see that the trends for both male and female follwed the same pattern.
+	Hence combining these trends we can tell White Male between 19-39 years of age are most uninsured.
 ![Screenshot 2022-01-03 145503](https://user-images.githubusercontent.com/90284853/147979521-6750faf2-4786-4adc-a1b9-4a570506bb80.png)
 
 
