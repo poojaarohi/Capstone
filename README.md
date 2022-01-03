@@ -30,6 +30,12 @@ Known  Issues and Challenges:
 •	Plotting TN County in Tableau: To plot this map I had to download FIPS codes for each county and merge that with the census data.
 
 
+![Screenshot 2022-01-03 145108](https://user-images.githubusercontent.com/90284853/147979084-a415da00-1a13-40d9-81ce-1f08286ad837.png)
+
+![Screenshot 2022-01-03 144943](https://user-images.githubusercontent.com/90284853/147979044-4ff2d578-482a-4666-b167-0f0b6e8c0754.png)
+
+
+
 ## TOOLS USED
 
 •	Excel – Data downloaded was in separate workbooks, which were cleaned and merged in Python.
