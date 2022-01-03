@@ -61,6 +61,14 @@ Further I have analyzed the uninsured population by demographics to find any con
 	Hence combining these trends we can tell White Male between 19-39 years of age are most uninsured.
 ![Screenshot 2022-01-03 145503](https://user-images.githubusercontent.com/90284853/147979521-6750faf2-4786-4adc-a1b9-4a570506bb80.png)
 
+## CONCLUSION
+
+
+	• Middle TN is high in insured population with East TN leading the way in uninsured population.
+	• 19-39 Male White is contributing most to the uninsured population. 
+	• Income is playing minimal role in the decision to be uninsured. (Do not have data to justify this point).
+	• African American and Hispanic populatin are not utilizing the benfit or ar least affected by public polies for health insurance.
+	• Afordable care act helped a lot of families along with driving some population forcefully. Post 2017 some population is refraining from getting insured.
 
 ## TOOLS USED
 
