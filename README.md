@@ -14,13 +14,15 @@ This project is intended to demonstrate the factors affecting health care covera
 
 To answer these questions, I used Census.gov data provided by the Small Area Health Insurance Estimates (SAHIE) over the years 2010-2019.This Data contains the health insurance coverage in the United States. However for my project I have downloaded Data for Tennessee state only. Data Contains distribution by County, Race/ethnicity, Age.
 
-![API code](https://user-images.githubusercontent.com/90284853/147978642-db0e36cf-00fe-4dd3-8b54-0cc2e1927e3c.jpeg)
+
 
 ## ANALYTICAL APPROACH
 
 Known  Issues and Challenges:
 
 •	Downloading Data thru API: Access to the data was only thru API with multi-layer variables. And some of the variables were not available in consistently within the data sets.I have written a code using loop function in python to download data for each year and then combined it together to form a data frame from year 2010-2019. I encountered Multiple time outs when the search criteria was retrieving too much data. Hence analysis was required to limit the search criteria
+
+![API code](https://user-images.githubusercontent.com/90284853/147978642-db0e36cf-00fe-4dd3-8b54-0cc2e1927e3c.jpeg)
 
 •	Plotting TN County in Tableau: To plot this map I had to download FIPS codes for each county and merge that with the census data.
 
