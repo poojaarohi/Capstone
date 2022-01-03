@@ -24,6 +24,9 @@ Known  Issues and Challenges:
 
 ![API code](https://user-images.githubusercontent.com/90284853/147978642-db0e36cf-00fe-4dd3-8b54-0cc2e1927e3c.jpeg)
 
+
+![API code2](https://user-images.githubusercontent.com/90284853/147978742-f2176124-3bab-4faf-8175-5801aaf2b80c.jpeg)
+
 •	Plotting TN County in Tableau: To plot this map I had to download FIPS codes for each county and merge that with the census data.
 
 
