@@ -14,6 +14,7 @@ This project is intended to demonstrate the factors affecting health care covera
 
 To answer these questions, I used Census.gov data provided by the Small Area Health Insurance Estimates (SAHIE) over the years 2010-2019.This Data contains the health insurance coverage in the United States. However for my project I have downloaded Data for Tennessee state only. Data Contains distribution by County, Race/ethnicity, Age.
 
+![API code](https://user-images.githubusercontent.com/90284853/147978642-db0e36cf-00fe-4dd3-8b54-0cc2e1927e3c.jpeg)
 
 ## ANALYTICAL APPROACH
 
